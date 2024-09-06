@@ -2,7 +2,8 @@ Full Name: Cyrus Gello M. Par
 
 Degree Program: BSCS BATCH 2022
 
-Live Website link: <link>https://cyruspar.github.io/CyrusPar/ or this for the classroom <link>https://cmsc100-laboratory.github.io/02-my-github-page-CyrusPar/
+Live Website link: <link>https://cyruspar.github.io/CyrusPar/ or 
+this for the classroom <link>https://cmsc100-laboratory.github.io/02-my-github-page-CyrusPar/
 
 Steps on how to create Github Page:
 
