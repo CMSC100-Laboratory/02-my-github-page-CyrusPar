@@ -17,4 +17,3 @@ Steps on how to create Github Page:
 
 My keytakeaways is the optimal foundation of being a frontend with the help of html and css in providing a decent webpage considering the interface
 
-The  repository on your github classroom
